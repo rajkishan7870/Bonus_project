@@ -1,0 +1,25 @@
+.maincontainer{
+    margin-top: 5rem;
+}
+.container{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    text-align: center;
+}
+.head{
+    justify-content: center;
+    text-align: center;
+    text-decoration: underline;
+}
+.btn{
+    font-size: 1.4rem;
+    margin-top: 7rem;
+    margin-left: -9rem;
+    cursor: pointer;
+   
+}
+.name{
+    font-size: 1.8rem;
+    font-weight: 600;
+}

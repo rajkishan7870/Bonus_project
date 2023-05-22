@@ -1,0 +1,12 @@
+.maincontainer{
+    display: flex;
+  
+  list-style-type: none;
+
+}
+.container{
+    display: flex;
+  text-decoration: none;
+    list-style-type: none;
+    gap: 2.5rem;
+}

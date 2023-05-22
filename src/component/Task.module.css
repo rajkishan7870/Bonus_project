@@ -1,0 +1,40 @@
+.maincontainer{
+    justify-content: center;
+    text-align: center;
+}
+.container{
+    display: flex;
+    margin-left: 40%;
+    margin-top: 2rem;
+    gap: 1.5rem;
+  
+}
+.icon{
+    
+    margin-left:-0.5rem;
+    margin-top: -0.5rem;
+    cursor: pointer;
+}
+.btn{
+    margin-left: -0.5rem;
+    padding: 0.5rem;
+    height: 2rem;
+    margin-top: -0.2rem;
+ 
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+}
+.list{
+    list-style-type: none;
+    font-size: 1.5rem;
+    margin-top: -0.5rem;
+}
+.btn1{
+    font-size: 1.5rem;
+    margin-right: 1rem;
+    cursor: pointer;
+}
+.input{
+    font-size: 1.5rem;
+}
